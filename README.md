@@ -1,7 +1,7 @@
 # AI Virtual KeyBorad
-<hr>
-A user-friendly virtual keyboard that utilizes hand gestures to move the cursor and type efficiently.
 ___
+A user-friendly virtual keyboard that utilizes hand gestures to move the cursor and type efficiently.
+
 ### Steps to Run:
 1.CLone the repo:
 ```bash
