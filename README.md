@@ -1,6 +1,7 @@
 # AI Virtual KeyBoard
-___
+
 A user-friendly virtual keyboard that utilizes hand gestures to move the cursor and type efficiently.
+___
 
 ### Steps to Run:
 1.Clone the repo:
