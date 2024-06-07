@@ -20,4 +20,7 @@ opencv
 
 6.You can move using the Index finger and when you want to type just Combine both Index and Middle Finger
 <br>
+
 <img src="https://previews.123rf.com/images/tinkivinki/tinkivinki1708/tinkivinki170800025/84878683-gesture-stylized-hand-with-index-and-middle-finger-connect-and-up-icon.jpg" alt="Finger" width="200" height="200"/>
+
+7.When clicked the button will become green in color
