@@ -19,4 +19,4 @@ opencv
 5.Move your hand infront of the camera 
 
 6.You can move using the Index finger and when you want to type just Combine both Index and Middle Finger
-!Finger(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_84878683_gesture-stylized-hand-with-index-and-middle-finger-connect-and-up-icon.html&psig=AOvVaw0D4IQQ7DRGDRcXumztOpEd&ust=1717861539158000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDN-ofryYYDFQAAAAAdAAAAABAE)
+![Finger](https://previews.123rf.com/images/tinkivinki/tinkivinki1708/tinkivinki170800025/84878683-gesture-stylized-hand-with-index-and-middle-finger-connect-and-up-icon.jpg)
