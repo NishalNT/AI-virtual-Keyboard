@@ -14,6 +14,7 @@ mediapipe
 cvzone
 numpy
 opencv
+pynput
 ```
 3.Go to `main.py` and click run
 
