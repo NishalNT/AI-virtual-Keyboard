@@ -4,11 +4,11 @@ A user-friendly virtual keyboard that utilizes hand gestures to move the cursor 
 ___
 
 ### Steps to Run:
-1.Clone the repo:
+1. Clone the repo:
 ```bash
 https://github.com/NishalNT/AI-virtual-Keyboard.git
 ```
-2.Install the dependencies (`Note`:If it is running on pycharm install the following)
+2. Install the dependencies (`Note`:If it is running on pycharm install the following)
 ```
 mediapipe
 cvzone
@@ -16,7 +16,7 @@ numpy
 opencv
 pynput
 ```
-3.Go to `main.py` and click run
+3. Go to `main.py` and click run
 
 4.A pop-up window will be displayed and you can see the virtual keyboard.
 
