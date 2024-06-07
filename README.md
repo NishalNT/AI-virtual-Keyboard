@@ -1,4 +1,4 @@
-# AI Virtual KeyBorad
+# AI Virtual KeyBoard
 ___
 A user-friendly virtual keyboard that utilizes hand gestures to move the cursor and type efficiently.
 
