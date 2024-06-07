@@ -5,7 +5,7 @@ ___
 ```bash
 https://github.com/NishalNT/AI-virtual-Keyboard.git
 ```
-2.Install the dependencies (`Note`:If it is running on python install the following)
+2.Install the dependencies (`Note`:If it is running on pycharm install the following)
 ```
 mediapipe
 cvzone
