@@ -3,7 +3,7 @@ ___
 A user-friendly virtual keyboard that utilizes hand gestures to move the cursor and type efficiently.
 
 ### Steps to Run:
-1.CLone the repo:
+1.Clone the repo:
 ```bash
 https://github.com/NishalNT/AI-virtual-Keyboard.git
 ```
