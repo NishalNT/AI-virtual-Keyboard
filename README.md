@@ -3,7 +3,8 @@
 A user-friendly virtual keyboard that utilizes hand gestures to move the cursor and type efficiently.
 
 #### Contributors
-<img src="https://avatars.githubusercontent.com/u/109665992?v=4" alt="GitHub User Logo" style="border-radius: 50%;width: 30px; height: 30px;"> Nishal N Thingalaya
+1. Nishal N Thingalaya
+2. Mohith R Shetty
 ___
 
 ### Steps to Run:
