@@ -17,7 +17,7 @@ https://github.com/NishalNT/AI-virtual-Keyboard.git
 mediapipe
 cvzone
 numpy
-opencv
+opencv-python
 pynput
 ```
 3. Go to `main.py` and click run
